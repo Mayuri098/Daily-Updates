@@ -4,5 +4,5 @@ In this blog i'll be sharing whatever I learn each day in the course of my assig
 
 ### Daily update of my work.
 
--Creating blogs on github pages
+1. Creating blogs on github pages
 
